@@ -1,5 +1,5 @@
 # Water Bottle Rocket Design
-# Science Olympiad 2020 : Aditi Ediga, Paul Kim
+# Science Olympiad 2020 : Aditi Ediga
 
 ## Rocket Altitude Determining Factors
 * Weight of the Rocket
