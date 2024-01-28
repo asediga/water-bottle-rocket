@@ -14,6 +14,14 @@
    * Angle of fin attachment - 2 degrees
 * Stability
    * Center of Gravity(CG) ahead of center of Pressure
+ 
+## Fin Design
+* Need firm, thin and light weight plastic material
+* Create 4 fins using the dimensions in this diagram
+* Attach 4 fins to the bottom of the 2 liter pepsi bottle
+
+![image](https://github.com/asediga/water-bottle-rocket/assets/92961504/ad84778d-56ca-442f-9897-bf7a9a85260c)
+
 
 
 
