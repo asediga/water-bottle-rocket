@@ -1,6 +1,14 @@
 # Water Bottle Rocket Design
 # Science Olympiad 2020 : Aditi Ediga
 
+- [Rocket Altitude Determining Factors](#Rocket Altitude Determining Factors)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Rocket Altitude Determining Factors
 * Weight of the Rocket
 * Nose Design
