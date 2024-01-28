@@ -2,7 +2,13 @@
 # Science Olympiad 2020 : Aditi Ediga
 
 - [Rocket Altitude Determining Factors](#Rocket-Altitude-Determining-Factors)
-
+- [Fin Design](#Fin-Design)
+- [Parachute Design](#Parachute-Design)
+- [Factors to help ensure stability](#Factors-to-help-ensure-stability)
+- [Center of Gravity](#Center-of-Gravity)
+- [Finding Your Center](#Finding-Your-Center)
+- [Fin Placement](#Fin-Placement)
+  
 ## Rocket Altitude Determining Factors
 * Weight of the Rocket
 * Nose Design
